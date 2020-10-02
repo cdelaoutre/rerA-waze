@@ -1,1 +1,94 @@
-[{"id": "r1", "name": "RER A", "type": "METRO", "color": "#fc0303", "svg_logo": "", "stations": [], "traces": [{"id": "r1_t1", "points": [{"id": "r1_t1_p1", "latitude": 48.87578025, "longitude": 2.28429794}, {"id": "r1_t1_p2", "latitude": 48.87465123, "longitude": 2.30798721}, {"id": "r1_t1_p3", "latitude": 48.87126402, "longitude": 2.32584}]}, {"id": "r1_t2", "points": [{"id": "r1_t2_p1", "latitude": 48.87126402, "longitude": 2.32584}, {"id": "r1_t2_p2", "latitude": 48.85387273, "longitude": 2.37493515}]}]}, {"id": "r2", "name": "RER B", "type": "RER", "color": "#0307fc", "svg_logo": "", "stations": [], "traces": [{"id": "r2_t1", "points": [{"id": "r2_t1_p1", "latitude": 48.83127763, "longitude": 2.30249405}, {"id": "r2_t1_p2", "latitude": 48.8364754, "longitude": 2.32481003}, {"id": "r2_t1_p3", "latitude": 48.84528779, "longitude": 2.34163284}]}, {"id": "r2_t2", "points": [{"id": "r2_t2_p1", "latitude": 48.84528779, "longitude": 2.34163284}, {"id": "r2_t2_p2", "latitude": 48.87623185, "longitude": 2.36188889}]}]}]
+{"data":
+[
+    {
+        "id": "r1",
+        "name": "RER A",
+        "type": "METRO",
+        "color": "#fc0303",
+        "svg_logo": "",
+        "stations": [],
+        "traces": [
+            {
+                "id": "r1_t1",
+                "points": [
+                    {
+                        "id": "r1_t1_p1",
+                        "latitude": 48.87578025,
+                        "longitude": 2.28429794
+                    },
+                    {
+                        "id": "r1_t1_p2",
+                        "latitude": 48.87465123,
+                        "longitude": 2.30798721
+                    },
+                    {
+                        "id": "r1_t1_p3",
+                        "latitude": 48.87126402,
+                        "longitude": 2.32584
+                    }
+                ]
+            },
+            {
+                "id": "r1_t2",
+                "points": [
+                    {
+                        "id": "r1_t2_p1",
+                        "latitude": 48.87126402,
+                        "longitude": 2.32584
+                    },
+                    {
+                        "id": "r1_t2_p2",
+                        "latitude": 48.85387273,
+                        "longitude": 2.37493515
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "r2",
+        "name": "RER B",
+        "type": "RER",
+        "color": "#0307fc",
+        "svg_logo": "",
+        "stations": [],
+        "traces": [
+            {
+                "id": "r2_t1",
+                "points": [
+                    {
+                        "id": "r2_t1_p1",
+                        "latitude": 48.83127763,
+                        "longitude": 2.30249405
+                    },
+                    {
+                        "id": "r2_t1_p2",
+                        "latitude": 48.8364754,
+                        "longitude": 2.32481003
+                    },
+                    {
+                        "id": "r2_t1_p3",
+                        "latitude": 48.84528779,
+                        "longitude": 2.34163284
+                    }
+                ]
+            },
+            {
+                "id": "r2_t2",
+                "points": [
+                    {
+                        "id": "r2_t2_p1",
+                        "latitude": 48.84528779,
+                        "longitude": 2.34163284
+                    },
+                    {
+                        "id": "r2_t2_p2",
+                        "latitude": 48.87623185,
+                        "longitude": 2.36188889
+                    }
+                ]
+            }
+        ]
+    }
+]
+}
